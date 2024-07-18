@@ -17,5 +17,8 @@ Please, open a pull request adding to `data.yml` your `SHA256` hashed id, such a
 If everything is correct your pull request will be merged and you will receive credits in every server that has the plugin enabled!
 
 # Tools
-You can use [this tool](https://gchq.github.io/CyberChef/#recipe=SHA2('256',64,160)To_Upper_case('All')) to quickly hash your id. Please don't forget to include the `@steam` part.
+You can use [this tool](https://gchq.github.io/CyberChef/#recipe=SHA2('256',64,160)To_Upper_case('All')) to quickly hash your id. 
+
+Please don't forget to include the `@steam` part.
+
 Thanks to @Nekonyx for the link to the tool!
