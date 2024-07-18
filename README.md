@@ -19,6 +19,6 @@ If everything is correct your pull request will be merged and you will receive c
 # Tools
 You can use [this tool](https://gchq.github.io/CyberChef/#recipe=SHA2('256',64,160)To_Upper_case('All')) to quickly hash your id. 
 
-Please don't forget to include the `@steam` part.
+Please don't forget to include the `@steam`, `@northwood` or `@discord` part. 
 
 Thanks to @Nekonyx for the link to the tool!
